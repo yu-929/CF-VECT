@@ -1,4 +1,4 @@
-# VECT IP 优选工具
+# CF-VECT IP 优选工具
 
 一个适用于 Ios、Android 以及 Windows 和 Linux 的 Cloudflare IP 优选工具。
 
