@@ -1,4 +1,4 @@
-MCIS
+#MCIS
 
 Cloudflare IP 优选工具，基于蒙特卡洛搜索算法，以更少探测次数，在 IPv4/IPv6 网段内筛选高速、稳定的可用IP。
 
